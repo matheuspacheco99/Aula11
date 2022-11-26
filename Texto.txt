@@ -1,4 +1,9 @@
 Eu sou um arquivo de texto que fará parte de um repositório.
-Eu sou a primeira modificação->esta duplicado e não tinha notado
+
+Eu sou a primeira modificação
 
 Eu estou na ramificação 'main'.
+
+Eu estou na ramificação 'teste'.
+
+Após o merge.
